@@ -1,6 +1,6 @@
 name: notalifestyleblog
 favicon: null
-layout_spectrum: 0.46662
+layout_spectrum: 0.72372
 typography_spectrum: 0.7571
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.11135284323245287
+  brandStrength: 0.125
   lightness: 0.7266765139065683
   saturation: 0.87831552606076
   rhythmicContrast: 0.15007140254601836
